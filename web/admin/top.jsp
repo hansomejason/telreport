@@ -37,7 +37,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					<a href="QueryDeptServlet">部门查询</a>
 					<a href="JobsView.jsp">职务查询</a>
 					<a href="QueryFYEmpServlet?pageNum=1">员工查询</a>
-					<a href="logout.jsp">退出登陆</a>
+					<a href="/logout.jsp">退出登陆</a>
 				</td>
 			</tr>
 			<tr>
