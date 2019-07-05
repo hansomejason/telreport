@@ -11,7 +11,7 @@ import javax.servlet.http.HttpSession;
 import neusoft.hrsys.dao.HrAdminDAO;
 import neusoft.hrsys.entity.HrAdmin;
 
-/** 白
+/**
  * Servlet implementation class LoginServlet
  黄河入海流*/
 @WebServlet("/LoginServlet")
