@@ -1,0 +1,57 @@
+body {
+	background-color:white;
+}
+*{
+	background-color:white;
+		padding: 0;
+	margin: 0;
+}
+.divcss5{
+	margin-top:10px;
+	margin-left:auto;
+	width:80%;
+	height:500px;
+	border:2px solid #BEBEBE;
+	border-radius:8px ;
+	margin-right:auto;
+}
+.logo{
+	margin-left:100px;
+}
+p,table {
+	font-size: 12px;
+	color: #000000;
+}
+input,textarea {
+	font-size: 12px;
+}
+a {
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: underline;
+}
+.input1 {
+	width: 150;
+	height: 20;
+}
+.adminname{
+	border-radius:8px ;
+}
+.box{
+	width:500px;
+	margin:auto;
+	margin-top:100px;
+	}
+.box .img{float:left;
+margin-top:0px;}
+.box .img img{width:300px;height:250px;}
+.footer{
+	margin-top:300px;
+	
+    text-align: center;
+}
+.right{width:50%; 
+float:left; height:100%; }
+.left{
+   width:50%;	
+}
