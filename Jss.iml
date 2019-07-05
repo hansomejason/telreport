@@ -23,7 +23,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Jar包/mysql-connector-java-5.1.38.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../实训小学期/Jar包/taglibs-standard-compat-1.2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -32,7 +32,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Jar包/taglibs-standard-compat-1.2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../实训小学期/Jar包/taglibs-standard-jstlel-1.2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -41,7 +41,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Jar包/taglibs-standard-impl-1.2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../实训小学期/Jar包/taglibs-standard-spec-1.2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -50,7 +50,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Jar包/taglibs-standard-jstlel-1.2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../实训小学期/Jar包/mysql-connector-java-5.1.38.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -59,7 +59,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Jar包/taglibs-standard-spec-1.2.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../实训小学期/Jar包/taglibs-standard-impl-1.2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
