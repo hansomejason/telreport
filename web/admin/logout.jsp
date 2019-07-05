@@ -20,7 +20,9 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 	window.setInterval("jump()",1000);
 </script>
+<div>
 <p>
 已经退出当前登陆，<span id="s1">10</span>秒后跳转到登陆页
-<a href="../login.jsp">单击此处到登陆页</a>
+    <a href="../login.jsp">单击此处到登陆页</a></p>
+</div>
 </p>

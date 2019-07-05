@@ -9,14 +9,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html>
 	<head>
 		<title>首页</title>
-		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	</head>
 
 	<body>
 		<!-- 页面头部 -->
-		
-		>
+
+		<jsp:include page="top.jsp"></jsp:include>
 
 
 		<!-- 页面内容 -->

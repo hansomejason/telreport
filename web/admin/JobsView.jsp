@@ -10,7 +10,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html>
 	<head>
 		<title>职务数据</title>
-		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 		<script type="text/javascript">
