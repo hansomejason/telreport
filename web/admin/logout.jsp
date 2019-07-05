@@ -15,7 +15,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		var s1 = document.getElementById("s1");
 		s1.innerHTML = num;		
 		if (num <= 0)
-			location.href = "../login.jsp.html";		
+			location.href = "/login.jsp";
 	}
 
 	window.setInterval("jump()",1000);
