@@ -18,7 +18,7 @@ import neusoft.hrsys.entity.HrAdmin;
 public class LoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    /**
+    /** 123
      * @see HttpServlet#HttpServlet()
      */
     public LoginServlet() {
