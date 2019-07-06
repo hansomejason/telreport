@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="telreport:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/telreport_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../实训小学期/Jar包/mysql-connector-java-5.1.38.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../实训小学期/Jar包/taglibs-standard-compat-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../实训小学期/Jar包/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../实训小学期/Jar包/taglibs-standard-jstlel-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../实训小学期/Jar包/taglibs-standard-spec-1.2.5.jar" />
+        </element>
+        <element id="directory" name="classes">
+          <element id="module-output" name="telreport" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="telreport/web/Web" />
+    </root>
+  </artifact>
+</component>

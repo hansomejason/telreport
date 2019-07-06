@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jss.iml" filepath="$PROJECT_DIR$/Jss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/telreport.iml" filepath="$PROJECT_DIR$/.idea/telreport.iml" />
     </modules>
   </component>
 </project>
