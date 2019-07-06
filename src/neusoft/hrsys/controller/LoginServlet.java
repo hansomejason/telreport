@@ -13,7 +13,7 @@ import neusoft.hrsys.entity.HrAdmin;
 
 /**
  * Servlet implementation class LoginServlet
- 黄河入海流 明月松间照*/
+ 黄河入海流 明月*/
 @WebServlet("/LoginServlet")
 public class LoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
