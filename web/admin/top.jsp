@@ -41,7 +41,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			</tr>
 			<tr>
 				<td height="24" align="right" bgcolor="#0099CC">
-					当前用户：${admin.username } 身份：
+<%--					当前用户：${admin.username } 身份：--%>
 					<c:choose>
 						<c:when test="${admin.level == 1 }">
 							管理员

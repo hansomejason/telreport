@@ -23,7 +23,7 @@ public class QueryClientServlet extends HttpServlet {
     
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		ClientDAO ddao = new ClientDAO();
-		ArrayList list = ddao.queryDept();	//从查询部门方法中得到list集合
+		//ArrayList list = ddao.queryDept();	//从查询部门方法中得到list集合
 		HttpSession session = request.getSession();
 		Object client = null;
 		session.setAttribute("client", client);

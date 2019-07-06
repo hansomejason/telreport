@@ -12,7 +12,8 @@ public class FactoryDataBase {
 	public FactoryDataBase(){
 		try {
 			Class.forName("org.gjt.mm.mysql.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://10.25.112.176:3306/telreprotform?useUicode=true&characterEncoding=UTF-8","root","");
+//			conn = DriverManager.getConnection("jdbc:mysql://10.25.112.176:3306/telreprotform?useUicode=true&characterEncoding=UTF-8","root","");
+			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/telreprotform?useUicode=true&characterEncoding=UTF-8","root","123456");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
