@@ -36,7 +36,18 @@ public class HrAdminDAO extends FactoryDataBase{
 		}finally{
 			close(rs, pstmt, null);
 		}
+		System.out.println("登陆失败???");
 		return false;
 	}
+
+	/**
+	 * 测试登录
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		HrAdminDAO aa= new HrAdminDAO();
+		aa.login("111","222",1);
+	}
+
 	
 }
